@@ -1,0 +1,52 @@
+.blog{
+    max-width: 700px;
+    margin: 0 auto;
+}
+.goback{
+    text-decoration: none;
+    font-size: .9rem;
+    font-weight: 500;
+    margin:1rem 1rem;
+    display: block;
+    color: rgb(63, 63, 63);
+    
+}
+
+
+.blog header{
+    text-align: center;
+    padding: 10px;
+}
+
+.blog img{
+    width: 100%;
+}
+
+.publisheddate{
+    font-size: 0.8rem;
+    color: #a9a9a9;
+    font-weight: 500;
+}
+
+.content{
+    padding: 1rem;
+    margin-top: 1.5rem;
+    
+}
+
+.title img{
+    
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    margin-right: 0.5rem;
+}
+
+.title{
+    padding-left: 10px;
+}
+.authtext{
+    font-size: 1.5rem;
+    color: #111010;
+    font-weight: 500;
+}

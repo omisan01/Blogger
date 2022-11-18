@@ -1,0 +1,30 @@
+.header {
+    background: lightblue;
+    height: 65px;
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
+    padding: 0px 10px;
+  }
+  
+
+.logotext span{
+color: red;
+}
+  
+  
+  .wrapper{
+      display: flex;
+      text-decoration: none;
+      align-self: center;
+      
+  }
+  .tag{
+    text-decoration: none;
+    margin-left: 10px;
+    font-size: 20px;
+    color: black;
+  }
+  .tag:hover{
+    color:red;
+  }
