@@ -13,7 +13,9 @@ export default function Header({ setData, data }) {
         </h1>
       </div>
       <SearchBar setData={setData} data={data} />
-      <Dropdown setData={setData} data={data} />
+      <div className="dropdown">
+        <Dropdown setData={setData} data={data} />
+      </div>
     </header>
   );
 }

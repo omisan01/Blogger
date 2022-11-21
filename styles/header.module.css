@@ -28,3 +28,17 @@ color: red;
   .tag:hover{
     color:red;
   }
+
+  
+  @media ( max-width: 768px) {
+    .header {
+   
+      height: 65px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content:space-between;
+      padding: 0px 10px;
+    }
+    
+  }

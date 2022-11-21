@@ -16,7 +16,7 @@ export default function Dropdown({ data, setData }) {
   };
 
   return (
-    <div>
+    <div className="dropdown">
       <select
         className={styles.select}
         value={value}
