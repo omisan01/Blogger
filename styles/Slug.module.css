@@ -33,6 +33,17 @@
     margin-top: 1.5rem;
     
 }
+.content h3{
+    margin: 10px 0;
+}
+
+.content p{
+margin-bottom: 5px;
+}
+
+.content code{
+ box-shadow: #111010;
+}
 
 .title img{
     

@@ -13,7 +13,7 @@ const QUERY = gql`
       slug
       date
       description
-      category
+      category              
       author {
         id
         name
